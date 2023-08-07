@@ -1,0 +1,5 @@
+- 👋 Olá, sou o Miguel!
+- 👀 Não sou interessado em nada... :(
+- 🌱 Estou aprendendo CSS há uns 7 anos.
+- 💞️ Meu sonho é uma collab com o "deus" com "d" minúsculo.  ৻( ⊙ ▭ ⊙ )৲
+- 📫 https://linktr.ee/omini_miguel
