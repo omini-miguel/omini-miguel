@@ -1,5 +1,4 @@
 - 👋 Olá, sou o Miguel!
 - ⚠ Estou trabahando no meu chatroom
-- ![image](https://github.com/omini-miguel/omini-miguel/assets/126841881/64e19a4c-19fb-4edb-bd72-11bd1698dd9c)Aprendendo um pouco de NodeJS!
+- ![image](https://github.com/omini-miguel/omini-miguel/assets/126841881/7601d976-9a9a-4ca7-9e48-5b72144c5419)Aprendendo um pouco de NodeJS!
 - ✳ https://linktr.ee/omini_miguel
-- 
