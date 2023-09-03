@@ -1,4 +1,4 @@
 - 👋 Olá, sou o Miguel!
 - ⚠ Estou trabahando no meu chatroom
-- [!](https://ibb.co/H41Wkgr)](https://ibb.co/H41Wkgr) Aprendendo um pouco de NodeJS!
+- 😵 Aprendendo um pouco de NodeJS!
 - ✳ https://linktr.ee/omini_miguel
