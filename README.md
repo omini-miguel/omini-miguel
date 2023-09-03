@@ -1,15 +1,14 @@
-[![MasterHead](https://i.ibb.co/mvs5dJH/fac05c110c458e9bab3a3248bfb3c376.jpg)]()
+<h1 align="center">Opa!</h1>
 
-<h1 align="center">Opa!<h1>
+<h3 align="center">😄 Meu nome é Miguel.</h3>
+<h3 align="center">🌍 Eu sou de Minas Gerais, Brasil.</h3>
+<h3 align="center">🎓 Atualmente, estou estudando um pouco de Node.js.</h3>
+<h3 align="center">🎮 Gosto de jogar uns joguinhos bobos.</h3>
 
-<h3></h3>
-- 😄 Meu nome é Miguel.
-- 🌍 Eu sou de Minas Gerais, brasil.
-- 🎓 Atualmente, estou estudando um pouco de NodeJs.
-- 🖥 Jogo uns joguinhos bobos.
+<h1 align="center">Meu Discord: @ominimiguel</h1>
 
-<h1 align="center">Meu discord: @ominimiguel</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omini-miguel&show_icons=true" alt="status">
+</p>
 
-![status](https://github-readme-stats.vercel.app/api?username=omini-miguel&show_icons=true)
-
-<h3>por agora é somente isso!</h3>
+<h3 align="center">Por agora é somente isso!</h3>
