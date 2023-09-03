@@ -1,5 +1,5 @@
 - 👋 Olá, sou o Miguel!
-- 👀 Não sou interessado em nada... :(
-- 🌱 Estou aprendendo CSS há uns 7 anos.
-- 💞️ Meu sonho é uma collab com o "deus" com "d" minúsculo.  ৻( ⊙ ▭ ⊙ )৲
-- 📫 https://linktr.ee/omini_miguel
+- ⚠ Estou trabahando no meu chatroom
+- ![image](https://github.com/omini-miguel/omini-miguel/assets/126841881/64e19a4c-19fb-4edb-bd72-11bd1698dd9c)Aprendendo um pouco de NodeJS!
+- ✳ https://linktr.ee/omini_miguel
+- 
