@@ -1,14 +1,12 @@
 <h1 align="center">Opa!</h1>
 
 <h3 align="center">😄 Meu nome é Miguel.</h3>
-<h3 align="center">🌍 Eu sou de Minas Gerais, Brasil.</h3>
+<h3 align="center">🌍 Eu sou de Minas Gerais.</h3>
 <h3 align="center">🎓 Atualmente, estou estudando um pouco de Node.js.</h3>
 <h3 align="center">🎮 Gosto de jogar uns joguinhos bobos.</h3>
 
-<h1 align="center">Meu Discord: @ominimiguel</h1>
+<h1 align="center">Discord: @ominimiguel</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omini-miguel&show_icons=true" alt="status">
 </p>
-
-<h3 align="center">Por agora é somente isso!</h3>
