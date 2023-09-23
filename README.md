@@ -7,7 +7,7 @@
 
 <h1 align="center">Discord: @ominimiguel</h1>
 
-[![wakatime](https://wakatime.com/badge/user/d27028c9-9a18-4719-a52c-4f4ffe0e1eee.svg))](https://wakatime.com/@d27028c9-9a18-4719-a52c-4f4ffe0e1eee
+[![wakatime](https://wakatime.com/badge/user/d27028c9-9a18-4719-a52c-4f4ffe0e1eee.svg))](https://wakatime.com/@d27028c9-9a18-4719-a52c-4f4ffe0e1eee)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omini-miguel&show_icons=true" alt="status">
