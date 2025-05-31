@@ -2,4 +2,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omini-miguel&show_icons=true" alt="status">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false" alt="status">
 </p>
